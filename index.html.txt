@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Добро пожаловать</title>
+
+<style>
+body{
+    margin:0;
+    background:#f5f5f5;
+    font-family:Arial,sans-serif;
+}
+
+.container{
+    max-width:500px;
+    margin:30px auto;
+    background:#fff;
+    border-radius:18px;
+    padding:25px;
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+h1{
+    text-align:center;
+    margin-top:0;
+}
+
+p{
+    line-height:1.6;
+    color:#444;
+}
+
+.button{
+    display:block;
+    text-align:center;
+    margin-top:15px;
+    padding:16px;
+    background:#2AABEE;
+    color:white;
+    text-decoration:none;
+    border-radius:12px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.button:hover{
+    background:#229ED9;
+}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+<h1>Добро пожаловать!</h1>
+
+<p>
+У нас вы можете приобрести фармакологические препараты, такие как:
+</p>
+
+<p>
+• Оземпик<br>
+• Мунджаро<br>
+• Семавик<br>
+• Седжаро<br>
+• и др.
+</p>
+
+<p>
+📍 По Москве — оплата после получения.
+</p>
+
+<p>
+📦 В регионы — оплата после отправки заказа.
+</p>
+
+<a class="button" href="https://t.me/ВАША_ССЫЛКА">
+🔍 Уточнить наличие
+</a>
+
+<a class="button" href="https://t.me/ВАША_ССЫЛКА">
+🛒 Заказать
+</a>
+
+<a class="button" href="https://t.me/ВАША_ССЫЛКА">
+⭐ Отзывы
+</a>
+
+</div>
+
+</body>
+</html>
